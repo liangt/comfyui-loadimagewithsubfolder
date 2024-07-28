@@ -2,7 +2,7 @@
 name = "comfyui-loadimagewithsubfolder"
 description = "Extend LoadImage node with subfolder support"
 version = "1.0.0"
-license = {file = "LICENSE"}
+license = "LICENSE"
 
 [project.urls]
 Repository = "https://github.com/liangt/comfyui-loadimagewithsubfolder"
