@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-loadimagewithsubfolder"
+description = "Extend LoadImage node with subfolder support"
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/liangt/comfyui-loadimagewithsubfolder"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "blingbling"
+DisplayName = "comfyui-loadimagewithsubfolder"
+Icon = ""
